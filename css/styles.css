@@ -1,41 +1,45 @@
 .top-container {
     background-color: #F1FDF3;
     position: relative;
-    padding-top: 100px;
+    padding-top: 150px;
+
 }
 body {
     margin: 0;
     text-align: center;
-    font-family: sans-serif;
-}
+    font-family: "Rockwell";
+}    
 
-div h1{
+h1 {
+    font-size: 7rem;
     margin-top: 0px;
+    margin-bottom: 2px;
     position: relative;
-    font-family: cursive;
+    font-family: "Lucida Handwriting", cursive;
 }
 
 .middle-container {
-    background-color: red;
-        width: 200px;
-        height: 200px;
 }
 
 .bottom-container {
-    background-color: green;
-    width: 200px;
-    height: 200px;
 }
 
 .second-cloud {
     position: absolute;
-    left: 300px;
+    left: 400px;
     bottom: 300px;
+    width: 200px;
 }
 
 .first-cloud {
     position: absolute;
     right: 400px;
-    top: 50px;
+    top: 150px;
+    width: 200px;
+}
 
+.about-me {
+    font-size: 20px;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', sans-serif;
 }
