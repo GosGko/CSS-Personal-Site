@@ -62,3 +62,11 @@ h1 {
 p {
     font-family: adobe-garamond-pro, HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: rgb(194, 189, 189);
+    border-width: 10px;
+    width: 4%;
+}
