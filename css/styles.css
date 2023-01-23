@@ -1,5 +1,5 @@
 .top-container {
-    background-color: #F1FDF3;
+    background-color: #d0faff;
     position: relative;
     padding-top: 150px;
 
@@ -11,11 +11,13 @@ body {
 }    
 
 h1 {
-    font-size: 7rem;
+    font-size: 6rem;
     margin-top: 0px;
-    margin-bottom: 2px;
+    margin-bottom: 0px;
     position: relative;
-    font-family: "Lucida Handwriting", cursive;
+    font-family: 'Sacramento', cursive;
+    color: #203858;
+    height: 118px;
 }
 
 .middle-container {
@@ -26,20 +28,27 @@ h1 {
 
 .second-cloud {
     position: absolute;
-    left: 400px;
+    left: 250px;
     bottom: 300px;
     width: 200px;
 }
 
 .first-cloud {
     position: absolute;
-    right: 400px;
-    top: 150px;
+    right: 250px;
+    top: 200px;
     width: 200px;
 }
 
 .about-me {
-    font-size: 20px;
-    margin-bottom: 50px;
+    font-size: 18px;
+    margin-bottom: 8%;
     font-family: 'Montserrat', sans-serif;
+    color: #2158a1;
+}
+
+.mountain {
+    width: 700px;
+    position: relative;
+    margin-bottom: -3px;
 }
