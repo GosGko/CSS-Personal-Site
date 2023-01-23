@@ -60,7 +60,9 @@ h1 {
 }
 
 p {
-    font-family: adobe-garamond-pro, HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+    font-style: normal;
 }
 
 hr {
@@ -69,4 +71,16 @@ hr {
     border-color: rgb(194, 189, 189);
     border-width: 10px;
     width: 4%;
+}
+
+a {
+    color: #105fa8;
+}
+
+h2 {
+    color: #345f96;
+}
+
+h3 {
+    color: #105fa8;
 }
