@@ -84,3 +84,11 @@ h2 {
 h3 {
     color: #105fa8;
 }
+
+.skill-row {
+    width: 50%;
+    position: relative;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
