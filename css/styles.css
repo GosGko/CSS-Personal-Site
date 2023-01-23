@@ -1,5 +1,5 @@
 .top-container {
-    background-color: #d0faff;
+    background-color: #c5d9db;
     position: relative;
     padding-top: 150px;
 
@@ -16,11 +16,12 @@ h1 {
     margin-bottom: 0px;
     position: relative;
     font-family: 'Sacramento', cursive;
-    color: #203858;
+    color: #2e5383;
     height: 118px;
 }
 
 .middle-container {
+    padding-top: 50px;
 }
 
 .bottom-container {
@@ -44,11 +45,20 @@ h1 {
     font-size: 18px;
     margin-bottom: 8%;
     font-family: 'Montserrat', sans-serif;
-    color: #2158a1;
+    color: #2e5383;
 }
 
 .mountain {
     width: 700px;
     position: relative;
     margin-bottom: -3px;
+    max-width: 100%;
+}
+
+.profile-img {
+    width: 150px;
+}
+
+p {
+    font-family: adobe-garamond-pro, HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
 }
