@@ -92,3 +92,30 @@ h3 {
     text-align: left;
     line-height: 2;
 }
+
+.btn {
+    background: #2e5383;
+    background-image: -webkit-linear-gradient(top, #2e5383, #105fa8);
+    background-image: -moz-linear-gradient(top, #2e5383, #105fa8);
+    background-image: -ms-linear-gradient(top, #2e5383, #105fa8);
+    background-image: -o-linear-gradient(top, #2e5383, #105fa8);
+    background-image: linear-gradient(to bottom, #2e5383, #105fa8);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #105fa8);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #105fa8);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #105fa8);
+    background-image: -o-linear-gradient(top, #3cb0fd, #105fa8);
+    background-image: linear-gradient(to bottom, #3cb0fd, #105fa8);
+    text-decoration: none;
+  }
