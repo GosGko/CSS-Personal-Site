@@ -172,14 +172,14 @@ a:hover {
 }
 
 .satellite-img-left {
-    width: 10%;
+    width: 8%;
     position: absolute;
     left: 100px;
     top: 2100px;
 }
 
 .satellite-img-right {
-    width: 10%;
+    width: 8%;
     position: absolute;
     right: 100px;
     top: 1000px;
