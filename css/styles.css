@@ -170,3 +170,17 @@ a:hover {
     position: relative;
     margin: 0 auto 30px auto;
 }
+
+.satellite-img-left {
+    width: 10%;
+    position: absolute;
+    left: 100px;
+    top: 2100px;
+}
+
+.satellite-img-right {
+    width: 10%;
+    position: absolute;
+    right: 100px;
+    top: 1000px;
+}
