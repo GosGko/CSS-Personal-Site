@@ -124,6 +124,8 @@ hr {
     margin: 100px auto;
 }
 
+/* Change the color */
+
 .education {
     background-color: #c5d9db;
     position: relative;
@@ -132,7 +134,34 @@ hr {
 
 .education-png {
     width: 200px;
-    padding: 100px 0 27px 0;
+    padding: 155px 0 27px 0;
+}
+
+.education-p {
+    width: 44%;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 155px;
+    padding-top: 23px;
+}
+
+.work {
+    background-color: #2f4057;
+    position: relative;
+    margin: 100px auto;
+}
+
+.work-png {
+    width: 200px;
+    padding: 155px 0 27px 0;
+}
+
+.work-p {
+    width: 44%;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 155px;
+    padding-top: 23px;
 }
 
 
