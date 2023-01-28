@@ -124,19 +124,19 @@ hr {
     margin: 100px auto;
 }
 
-.education {
+.websites {
     background: #679895;
     position: relative;
     margin: 100px auto 0 auto;
 }
 
-.education-png {
+.websites-png {
     width: 200px;
     padding: 155px 0 27px 0;
 }
 
-.education-p {
-    width: 44%;
+.websites-p {
+    width: 30%;
     margin: 0 auto;
     position: relative;
     padding-bottom: 155px;
@@ -144,19 +144,19 @@ hr {
     color: rgba(255, 255, 255, 0.89);
 }
 
-.work {
+.app {
     background-color: #2f4057;
     position: relative;
     margin: 0 auto 0 auto;
 }
 
-.work-png {
+.app-png {
     width: 200px;
     padding: 155px 0 27px 0;
 }
 
-.work-p {
-    width: 24%;
+.app-p {
+    width: 30%;
     margin: 0 auto;
     position: relative;
     padding-bottom: 155px;
@@ -164,19 +164,19 @@ hr {
     color: rgba(255, 255, 255, 0.89);
 }
 
-.plans {
+.art {
     background-color: #66A7D5;;
     position: relative;
     margin: 0 auto 100px auto;
 }
 
-.plans-png {
+.art-png {
     width: 200px;
     padding: 155px 0 27px 0;
 }
 
-.plans-p {
-    width: 44%;
+.art-p {
+    width: 30%;
     margin: 0 auto;
     position: relative;
     padding-bottom: 155px;
@@ -234,14 +234,14 @@ hr {
     width: 8%;
     position: absolute;
     left: 100px;
-    top: 2100px;
+    top: 4050px;
 }
 
 .satellite-img-right {
     width: 8%;
     position: absolute;
     right: 100px;
-    top: 1000px;
+    top: 1030px;
 }
 
 .contact-h {
