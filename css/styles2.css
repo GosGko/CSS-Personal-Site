@@ -124,12 +124,10 @@ hr {
     margin: 100px auto;
 }
 
-/* Change the color */
-
 .education {
-    background-color: #c5d9db;
+    background: #679895;
     position: relative;
-    margin: 100px auto;
+    margin: 100px auto 0 auto;
 }
 
 .education-png {
@@ -143,12 +141,13 @@ hr {
     position: relative;
     padding-bottom: 155px;
     padding-top: 23px;
+    color: rgba(255, 255, 255, 0.89);
 }
 
 .work {
     background-color: #2f4057;
     position: relative;
-    margin: 100px auto;
+    margin: 0 auto 0 auto;
 }
 
 .work-png {
@@ -162,7 +161,94 @@ hr {
     position: relative;
     padding-bottom: 155px;
     padding-top: 23px;
+    color: rgba(255, 255, 255, 0.89);
 }
+
+.plans {
+    background-color: #66A7D5;;
+    position: relative;
+    margin: 0 auto 100px auto;
+}
+
+.plans-png {
+    width: 200px;
+    padding: 155px 0 27px 0;
+}
+
+.plans-p {
+    width: 44%;
+    margin: 0 auto;
+    position: relative;
+    padding-bottom: 155px;
+    padding-top: 23px;
+    color: rgba(255, 255, 255, 0.89);
+}
+
+.btn {
+    background: #2e5383;
+    background-image: -webkit-linear-gradient(top, #2e5383, #105fa8);
+    background-image: -moz-linear-gradient(top, #2e5383, #105fa8);
+    background-image: -ms-linear-gradient(top, #2e5383, #105fa8);
+    background-image: -o-linear-gradient(top, #2e5383, #105fa8);
+    background-image: linear-gradient(to bottom, #2e5383, #105fa8);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    top: 40px;
+    font-family: 'Sofia Sans', sans-serif;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #105fa8);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #105fa8);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #105fa8);
+    background-image: -o-linear-gradient(top, #3cb0fd, #105fa8);
+    background-image: linear-gradient(to bottom, #3cb0fd, #105fa8);
+    text-decoration: none;
+}
+
+.contact-me p {
+    width: 37%;
+    margin: auto;
+    text-align: center;
+}
+
+.bottom-container {
+    background-color: #c5d9db;
+    margin: 100px auto 0;
+}
+
+.bottom-container p {
+    font-size: 0.8rem;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+.satellite-img-left {
+    width: 8%;
+    position: absolute;
+    left: 100px;
+    top: 2100px;
+}
+
+.satellite-img-right {
+    width: 8%;
+    position: absolute;
+    right: 100px;
+    top: 1000px;
+}
+
+.contact-h {
+    position: relative;
+    margin-top: 60px;
+}
+
 
 
 
