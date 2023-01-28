@@ -27,16 +27,16 @@ h1 {
 
 .second-cloud {
     position: absolute;
-    left: 250px;
+    left: 350px;
     bottom: 300px;
-    width: 180px;
+    width: 210px;
 }
 
 .first-cloud {
     position: absolute;
-    right: 250px;
+    right: 350px;
     top: 100px;
-    width: 180px;
+    width: 210px;
 }
 
 .rocket {
